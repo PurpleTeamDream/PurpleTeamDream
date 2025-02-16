@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Avery! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/PurpleTeamDream)
+
+<h2>🛡️ Certifications </h2>
+
+- [Certified Information Systems Security Professional](https://www.credly.com/badges/2d27bd2e-c40f-46c9-a616-30c0f5455ca2/linked_in?t=spqawn)
 
 <!--
-**PurpleTeamDream/PurpleTeamDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
