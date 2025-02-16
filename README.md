@@ -8,16 +8,15 @@
 
 - [Certified Information Systems Security Professional](https://www.credly.com/badges/2d27bd2e-c40f-46c9-a616-30c0f5455ca2/linked_in?t=spqawn)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>👨‍💻 LinkedIn Profile: </h3>
 
-Here are some ideas to get you started:
+- [Information Security Administrator, Avery Brennen](https://www.linkedin.com/in/avery-brennen/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on engineering FortiEDR and FortiClient Antivirus for over 1,000 systems.
+- 🌱 I’m currently learning: Programming, APIs, and Quantum Cryptography
+- 👯 I’m looking to collaborate on: Content and CTFs
+- 🤔 I’m looking for help with: Growing my community and increasing my collaboration with Cybersecurity professionals.
+- 💬 Ask me about: Building computers
+- 📫 How to reach me: abrennen20@gmail.com
+- ⚡ Fun fact: I was born in Adana, Turkey.
