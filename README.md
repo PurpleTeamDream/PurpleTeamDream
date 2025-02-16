@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [File Integrity Monitor with Target Folder Selection](https://github.com/PurpleTeamDream)
+  - [File Integrity Monitor with Target Folder Selection](https://github.com/PurpleTeamDream/File-Integrity-Monitor)
 
 <h2>🛡️ Certifications </h2>
 
