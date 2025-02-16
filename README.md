@@ -12,6 +12,7 @@
 
 - [Information Security Administrator, Avery Brennen](https://www.linkedin.com/in/avery-brennen/)
 
+<h4>‼️More about me </h4>
 
 - 🔭 I’m currently working on engineering FortiEDR and FortiClient Antivirus for over 1,000 systems.
 - 🌱 I’m currently learning: Programming, APIs, and Quantum Cryptography
