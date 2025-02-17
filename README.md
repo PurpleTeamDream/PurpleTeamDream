@@ -20,4 +20,4 @@
 - 🤔 I’m looking for help with: Growing my community and increasing my collaboration with Cybersecurity professionals.
 - 💬 Ask me about: Building computers
 - 📫 How to reach me: abrennen20@gmail.com
-- ⚡ Fun fact: I beat the market by 47% for three years.
+- ⚡ Fun fact: I beat the market by 30% for three years.
